@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.venier.miamfinder.Horaires_Tarifs">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="200"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/call"
+        android:orderInCategory="100"
+        android:title="Confirm"
+        android:icon="@mipmap/ic_call"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/add"
+        android:orderInCategory="100"
+        android:title="Confirm"
+        android:icon="@mipmap/ic_addcontact"
+        app:showAsAction="always"/>
+</menu>

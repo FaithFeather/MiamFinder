@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+tools:context=".MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bdd"
+        android:orderInCategory="100"
+        android:title="Base De Données"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_quit"
+        android:orderInCategory="100"
+        android:title="Quitter"
+        app:showAsAction="never" />
+
+<item
+    android:id="@+id/action_search"
+    android:orderInCategory="200"
+    android:title="Search"
+    android:icon="@mipmap/ic_search"
+    app:showAsAction="ifRoom"/>
+
+</menu>

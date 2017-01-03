@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Recherche">
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="200"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/reload_page"
+        android:orderInCategory="100"
+        android:title="Confirm"
+        android:icon="@mipmap/ic_reload"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/confirm_launch"
+        android:orderInCategory="100"
+        android:title="Confirm"
+        android:icon="@mipmap/ic_confirm"
+        app:showAsAction="always"/>
+</menu>

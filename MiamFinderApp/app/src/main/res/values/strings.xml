@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MiamFinder</string>
+
+    <string name="hello_world">Hello World !</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ajouter">Ajouter</string>
+    <string name="case_empty">Remplir tous les champs obligatoires</string>
+    <string name="adresse_fausse">L\'adresse n\'existe pas.</string>
+    <string name="impossibleGPS">Impossible d\'utiliser le rayon de recherche</string>
+    <string name="added_informations">Les informations ont bien été ajoutés</string>
+    <string name="added_restaurant">Le restaurant est bien ajouté</string>
+    <string name="title_activity_recherche">Recherche</string>
+
+    <string name="title_activity_resultats_recherche">ResultatsRecherche</string>
+    <string name="provider_enabled">The provider %s is now enabled</string>
+    <string name="provider_disabled">The provider %s is now disabled</string>
+    <string name="provider_new_status">The provider %1$s has now a new status %2$s</string>
+    <string name="new_location">New Location : Latitude = %1$s, Longitude = %2$s, Altitude = %3$s avec une précision de %4$s mètres </string>
+    <string name="title_activity_page__restaurant">Page_Restaurant</string>
+    <string name="no_camera">Votre téléphone ne possède pas de fonction appareil photo.</string>
+    <string name="title_activity_page_restaurant_tabbed">Page_restaurant_tabbed</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_restaurant__onglets">Restaurant_Onglets</string>
+    <string name="title_activity_informations_generales">Informations_generales</string>
+    <string name="title_activity_horaires__tarifs">Horaires_Tarifs</string>
+    <string name="title_activity_media">Media</string>
+    <string name="Modifier">Modifier</string>
+    <string name="Supprimer">Supprimer</string>
+    <string name="EnvoieSMS">Envoie SMS</string>
+    <string name="title_activity_modifier">Modifier</string>
+    <string name="title_activity_action_bdd">ActionBDD</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <color name="FondToolbar">#4B88A6</color>
+        <color name="FondAndroidToolbar">#437a94</color>
+        <color name="blue">#2b4f5f</color>
+        <color name="black">#000000</color>
+    </resources>

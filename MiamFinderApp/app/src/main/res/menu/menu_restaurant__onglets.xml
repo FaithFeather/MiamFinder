@@ -1,0 +1,53 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.venier.miamfinder.Restaurant_Onglets">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="200"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/modifier"
+        android:orderInCategory="200"
+        android:title="@string/Modifier"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/modifierhoraires"
+        android:orderInCategory="200"
+        android:title="Modifier Horaires"
+        app:showAsAction="never"/>
+
+
+    <item
+        android:id="@+id/rating"
+        android:orderInCategory="100"
+        android:title="Rate"
+        android:icon="@mipmap/ic_rate"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/addCal"
+        android:orderInCategory="100"
+        android:title="Calendrier"
+        android:icon="@mipmap/ic_event"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/envoiesms"
+        android:orderInCategory="100"
+        android:title="Envoyer un SMS"
+        android:icon="@mipmap/ic_textsms"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/call"
+        android:orderInCategory="100"
+        android:title="Confirm"
+        android:icon="@mipmap/ic_call"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/add"
+        android:orderInCategory="100"
+        android:title="Confirm"
+        android:icon="@mipmap/ic_addcontact"
+        app:showAsAction="always"/>
+
+</menu>
